@@ -24,7 +24,9 @@ $ techstack --info
   Databases & Storage
   - PostgreSQL
   - SQLite
-  - KQL (Kusto Query Language)
+  Other
+  - KQL
   - Splunk
 $ currently-learning --status
-> Rust 33% [====              ] | 641.3 MiB/s | 754.2 MiB | 00mm00s(what) 
+> Rust 33% [====              ] | 641.3 MiB/s | 754.2 MiB | 00mm00s(what)
+Warning: The green guy is trying to terminate the download process...
