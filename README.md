@@ -1,8 +1,8 @@
 ```bash
 $ whoami
-> lxrry
+> lxrry(the blue guy?)
 $ location
-> somewhere on earth
+> earth(maybe)
 $ contact --email
 > lxrry.dev@xdr.sh
 $ techstack --info
