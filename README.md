@@ -1,3 +1,4 @@
+```bash
 $ whoami
 > lxrry
 $ location
