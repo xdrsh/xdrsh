@@ -27,4 +27,4 @@ $ techstack --info
   - KQL (Kusto Query Language)
   - Splunk
 $ currently-learning --status
-> Rust
+> Rust 33% [====       ] | 641.3 MiB/s | 754.2 MiB | 00mm00s(what) 
